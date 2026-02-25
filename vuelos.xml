@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vuelos>
+    <vuelo>
+        <codigo>AV123</codigo>
+        <origen>Ciudad de Mexico</origen>
+        <destino>Madrid</destino>
+        <duracion>11</duracion>
+        <aerolinea>Avianca</aerolinea>
+    </vuelo>
+    <vuelo>
+        <codigo>IB456</codigo>
+        <origen>Madrid</origen>
+        <destino>Buenos Aires</destino>
+        <duracion>13</duracion>
+        <aerolinea>Iberia</aerolinea>
+    </vuelo>
+</vuelos>
